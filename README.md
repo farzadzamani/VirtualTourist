@@ -1,5 +1,4 @@
-Virtual Tourist
+Virtual Tourist 
+app that downloads and stores images from Flickr. The app will allow users to drop pins on a map, as if they were stops on a tour. Users will then be able to download pictures for the location and persist both the pictures, and the association of the pictures with the pin.
 
-This application was created as the fourth project in the Udacity iOS Nanodegree. It is called Virtual Tourist and showcases my ability to create a production ready iOS Application that utilizes Core Data and iOS networking to get image data from Flickr.
 
-Technologies used Core Data Networking MapKit CoreLocation RESTful API Grand Central Dispatch Multithreading Model View Controller (MVC) Asynchronous & Concurrent Multithreading
